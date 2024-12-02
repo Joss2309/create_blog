@@ -1,3 +1,7 @@
 plotly
 streamlit
 pandas
+os
+sqlite3
+sys
+numpy 

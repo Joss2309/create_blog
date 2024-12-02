@@ -1,8 +1,9 @@
 import streamlit as st
 import plotly.express as px
+import sqlite3 
 
 
-st.write("My first Blog")
+st.write("Blog Proyecto de Sakila")
 
 st.markdown('''
             :tulip:
@@ -10,5 +11,8 @@ st.markdown('''
             :sparkles:
             :tulip:
 
-            # Datos Sakila
+            # Datos Sakilak
             ''')
+st.title("Creado por: Joselyn")
+st.title("_Mi trabajo Streamlit_ :blue[cool] :sunglasses:")
+
